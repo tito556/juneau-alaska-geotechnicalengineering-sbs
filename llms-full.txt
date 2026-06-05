@@ -1,0 +1,46 @@
+# Geotechnicalengineering — Juneau Alaska
+
+> Geotechnical engineering services in Juneau Alaska, United States.
+
+## Services
+- [Anchors](https://juneau-alaska.geotechnicalengineering.sbs/anchors/)
+- [Atterberg Limits](https://juneau-alaska.geotechnicalengineering.sbs/atterberg-limits/)
+- [Cbr Road](https://juneau-alaska.geotechnicalengineering.sbs/cbr-road/)
+- [Cpt Test](https://juneau-alaska.geotechnicalengineering.sbs/cpt-test/)
+- [Deep Excavations](https://juneau-alaska.geotechnicalengineering.sbs/deep-excavations/)
+- [Excavation Monitoring](https://juneau-alaska.geotechnicalengineering.sbs/excavation-monitoring/)
+- [Excavations](https://juneau-alaska.geotechnicalengineering.sbs/excavations/)
+- [Flexible Pavement](https://juneau-alaska.geotechnicalengineering.sbs/flexible-pavement/)
+- [Footings](https://juneau-alaska.geotechnicalengineering.sbs/footings/)
+- [Foundations](https://juneau-alaska.geotechnicalengineering.sbs/foundations/)
+- [Geophysics](https://juneau-alaska.geotechnicalengineering.sbs/geophysics/)
+- [Grain Size](https://juneau-alaska.geotechnicalengineering.sbs/grain-size/)
+- [Ground Improvement](https://juneau-alaska.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting](https://juneau-alaska.geotechnicalengineering.sbs/grouting/)
+- [Investigation](https://juneau-alaska.geotechnicalengineering.sbs/investigation/)
+- [Laboratory](https://juneau-alaska.geotechnicalengineering.sbs/laboratory/)
+- [Liquefaction](https://juneau-alaska.geotechnicalengineering.sbs/liquefaction/)
+- [Masw](https://juneau-alaska.geotechnicalengineering.sbs/masw/)
+- [Mat Foundations](https://juneau-alaska.geotechnicalengineering.sbs/mat-foundations/)
+- [Piles](https://juneau-alaska.geotechnicalengineering.sbs/piles/)
+- [Resistivity](https://juneau-alaska.geotechnicalengineering.sbs/resistivity/)
+- [Retaining Walls](https://juneau-alaska.geotechnicalengineering.sbs/retaining-walls/)
+- [Rigid Pavement](https://juneau-alaska.geotechnicalengineering.sbs/rigid-pavement/)
+- [Road Geotechnics](https://juneau-alaska.geotechnicalengineering.sbs/road-geotechnics/)
+- [Seismic](https://juneau-alaska.geotechnicalengineering.sbs/seismic/)
+- [Seismic Isolation](https://juneau-alaska.geotechnicalengineering.sbs/seismic-isolation/)
+- [Seismic Microzonation](https://juneau-alaska.geotechnicalengineering.sbs/seismic-microzonation/)
+- [Seismic Refraction](https://juneau-alaska.geotechnicalengineering.sbs/seismic-refraction/)
+- [Slope Stability](https://juneau-alaska.geotechnicalengineering.sbs/slope-stability/)
+- [Slopes](https://juneau-alaska.geotechnicalengineering.sbs/slopes/)
+- [Soft Ground Tunnels](https://juneau-alaska.geotechnicalengineering.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://juneau-alaska.geotechnicalengineering.sbs/spt-drilling/)
+- [Triaxial](https://juneau-alaska.geotechnicalengineering.sbs/triaxial/)
+- [Vibrocompaction](https://juneau-alaska.geotechnicalengineering.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://juneau-alaska.geotechnicalengineering.sbs/
+
+## About
+This site provides geotechnical engineering services in Juneau Alaska, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
